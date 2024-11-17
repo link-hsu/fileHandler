@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>file_lock</id>
+    <version>1.0.0</version>
+    <authors>file_lock</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="DocumentFormat.OpenXml" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="log4net" version="3.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\gitlab\file_lock\file_lock\file_lock\bin\Debug\net8.0\file_lock.runtimeconfig.json" target="lib\net8.0\file_lock.runtimeconfig.json" />
+    <file src="C:\gitlab\file_lock\file_lock\file_lock\bin\Debug\net8.0\file_lock.dll" target="lib\net8.0\file_lock.dll" />
+  </files>
+</package>

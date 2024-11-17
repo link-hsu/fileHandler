@@ -1,0 +1,13 @@
+C:\file_lock\file_lock.exe
+C:\file_lock\file_lock.dll
+C:\file_lock\file_lock.deps.json
+C:\file_lock\file_lock.runtimeconfig.json
+C:\file_lock\file_lock.pdb
+C:\file_lock\DocumentFormat.OpenXml.dll
+C:\file_lock\DocumentFormat.OpenXml.Framework.dll
+C:\file_lock\log4net.dll
+C:\file_lock\System.Configuration.ConfigurationManager.dll
+C:\file_lock\System.IO.Packaging.dll
+C:\file_lock\System.Security.Cryptography.ProtectedData.dll
+C:\file_lock\System.Security.Permissions.dll
+C:\file_lock\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
